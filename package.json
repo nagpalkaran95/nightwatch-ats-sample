@@ -1,0 +1,15 @@
+{
+  "name": "nightwatch-v3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nightwatch": "^3.3.5"
+  }
+}
